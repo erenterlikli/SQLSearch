@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\SQLArama\SQLArama\bin\Debug\SQLArama.exe.config
+C:\Users\Eren\source\repos\SQLArama\SQLArama\bin\Debug\SQLArama.exe
+C:\Users\Eren\source\repos\SQLArama\SQLArama\bin\Debug\SQLArama.pdb
+C:\Users\Eren\source\repos\SQLArama\SQLArama\obj\Debug\SQLArama.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\SQLArama\SQLArama\obj\Debug\SQLArama.Form1.resources
+C:\Users\Eren\source\repos\SQLArama\SQLArama\obj\Debug\SQLArama.Properties.Resources.resources
+C:\Users\Eren\source\repos\SQLArama\SQLArama\obj\Debug\SQLArama.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\SQLArama\SQLArama\obj\Debug\SQLArama.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\SQLArama\SQLArama\obj\Debug\SQLArama.exe
+C:\Users\Eren\source\repos\SQLArama\SQLArama\obj\Debug\SQLArama.pdb
